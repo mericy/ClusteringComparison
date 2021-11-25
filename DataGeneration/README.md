@@ -4,3 +4,4 @@ Includes:
 
 - Basic Wave Generator
 - Lorenz Chaotic Data Generator
+- Zipped Dataset used in the Paper
